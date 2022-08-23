@@ -29,7 +29,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `IMDB`: Imdb, the view of information when making True/False.
-* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/josprojects/tgmoviebot/issues/1) True/False.
+* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/theseeker99/IMDb-Movie-Bot/issues/1) True/False.
 
 ## larger result buttons
 larger results will be better for reading.
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
+<a href="https://heroku.com/deploy?template=https://github.com/theseeker99/IMDb-Movie-Bot.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
@@ -79,7 +79,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/josprojects/tgmoviebot
+git clone https://github.com/theseeker99/IMDb-Movie-Bot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
